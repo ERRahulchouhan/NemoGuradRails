@@ -1,3 +1,5 @@
+ss
+
 # HR Policy Assistant — NeMo Guardrails + RAG Demo
 
 A production-style demo showing **NVIDIA NeMo Guardrails acting as a semantic security gate in front of a RAG (Retrieval-Augmented Generation) pipeline**. Built with Streamlit, FAISS, and Groq.
@@ -413,5 +415,4 @@ For blocked messages only stages ① and ④ run, saving the RAG + generation co
 ## License
 
 MIT — free to use, modify, and deploy.
-#   N e m o G u r a d R a i l s  
- 
+#
